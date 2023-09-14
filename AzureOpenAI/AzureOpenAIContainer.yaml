@@ -23,7 +23,7 @@ spec:
         - name: USE_AZURE_OPENAI 
           value: "True"
         - name: AZURE_OPENAI_DEPLOYMENT_NAME 
-          value: "$AZURE_OPENAI_DEPLOYMENT_NAME "
+          value: "$AZURE_OPENAI_DEPLOYMENT_NAME"
         - name: AZURE_OPENAI_ENDPOINT 
           value: "$AZURE_OPENAI_ENDPOINT"
         - name: OPENAI_API_KEY 
